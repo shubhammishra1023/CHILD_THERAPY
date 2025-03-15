@@ -3,13 +3,6 @@
 A 24-hour Hackathon project submitted in fulfilment of requirements for the award learning degree of  
 **Bachelor of Technology in Computer Science and Engineering**
 
-## Team Members
-- Tarani Yaragani
-- Shubham Mishra
-- Rahul Varma
-- Shaik Karishma
-- Yellapa Kavya
-
 **Under the guidance of**  
 ANITS College Hackathon Coordinators  
 Sanghivalasa, Visakhapatnam
@@ -121,10 +114,10 @@ Blog:
 ---
 
 ## 📸 Screenshots
-![Project Banner](images/rev.png)  
-![Project Banner](images/exp.png)  
-![Project Banner](images/oth.png)
-![Project Banner](images/ser.png)  
+![Banner Image](images/ban.jpg)  
+![Banner Image](images/blog.jpg) 
+![Banner Image](images/exp.jpg) 
+![Banner Image](images/ser.jpg) 
 ---
 ---
 
